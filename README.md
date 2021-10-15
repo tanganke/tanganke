@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![](https://github-readme-stats.vercel.app/api?username=tanganke)](https://github.com/tanganke)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanganke&hide=Mathematica&layout=compact)](https://github.com/tanganke)
